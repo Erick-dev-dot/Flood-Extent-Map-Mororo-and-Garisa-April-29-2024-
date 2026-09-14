@@ -1,6 +1,6 @@
 # Flood Extent Map: Mororo and Garissa Town (April 29, 2024)
 
-###  [ Click Here to View the Interactive Map ](https://github.io)
+###  [ Click Here to View the Interactive Map ](https://erick-dev-dot.github.io/Flood-Extent-Map-Mororo-and-Garisa-April-29-2024-/)
 
 ## Project Overview
 This repository hosts an interactive web map documenting the severe flood extent in Mororo and Garissa Town observed on April 29, 2024. Generated using QGIS from Sentinel-2 satellite imagery and hosted via GitHub Pages.
